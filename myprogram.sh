@@ -1,5 +1,5 @@
 echo "webhooks"
 
-date +%d
+date +%d:%b:%G
 
 cal
